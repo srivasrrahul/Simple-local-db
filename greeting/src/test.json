@@ -1,0 +1,89 @@
+{
+
+  "UserPersonalData": {
+
+    "Name" : "Rahul",
+
+    "PhoneNumber": "9886609616",
+
+    "ListedAddress": {
+
+        "PinCode" : "600119",
+
+        "House Number": "A403",
+
+        "HouseOrApartmentName": "Ceebros Imperiale",
+
+        "Street Name": "Elcot Avenue Road",
+
+        "Area": "Shollingnalur",
+
+        "City": "Chennai"
+
+
+
+   }
+
+
+
+
+
+  },
+
+
+
+  "TransactionData" : {
+
+    "TransactionId" : "UniqueIdForTransaction",
+
+    "CostOfPurchase": 1000,
+
+    "MerchantName" : "Flipkart",
+
+    "CODAddress": {
+
+      "PinCode" : "600119",
+
+      "HouseNumber": "A403",
+
+      "HouseOrApartmentName": "Ceebros Imperiale",
+
+      "Street Name": "Elcot Avenue Road",
+
+      "Area": "Shollingnalur",
+
+      "City": "Chennai"
+
+
+
+    }
+
+
+
+  },
+
+
+
+  "UserMerchantSpecificData" : {
+
+    "HasRegisteredCreditCard" : false,
+
+    "LastTransactionsHistory" : [
+
+      { "Amount":1000,
+
+        "TransactionDate":"21-10-2015",
+
+        "PaymentInstrument": "Card",
+
+        "IsSuccessful" : false
+
+      }
+
+    ]
+
+  }
+
+}
+
+

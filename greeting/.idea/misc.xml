@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CppTools.Loader" reportImplicitCastToBool="false" reportNameReferencedOnce="false" version="3" currentProject="$PROJECT_DIR$/deps/mochiweb/Makefile" compilerSelect="AUTO" />
+  <component name="IdProvider" IDEtalkID="D212293B2F2914E7A97704FD0BDA6AEE" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Erlang 17" project-jdk-type="Erlang SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

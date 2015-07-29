@@ -1,0 +1,9 @@
+%% -*- erlang -*-
+{application, simpl_local_db,
+ [{description, "simpl_local_db"},
+  {vsn, "0.1"},
+  {modules, []},
+  {registered, []},
+  {mod, {'simpl_local_db_app', []}},
+  {env, []},
+  {applications, [kernel, stdlib, crypto]}]}.
